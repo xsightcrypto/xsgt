@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/xsgt_bg.qm</file>
+        <file alias="ca">locale/xsgt_ca.qm</file>
+        <file alias="cs">locale/xsgt_cs.qm</file>
+        <file alias="da">locale/xsgt_da.qm</file>
+        <file alias="de">locale/xsgt_de.qm</file>
+        <file alias="en">locale/xsgt_en.qm</file>
+        <file alias="en_US">locale/xsgt_en_US.qm</file>
+        <file alias="es">locale/xsgt_es.qm</file>
+        <file alias="fi">locale/xsgt_fi.qm</file>
+        <file alias="fr_FR">locale/xsgt_fr_FR.qm</file>
+        <file alias="it">locale/xsgt_it.qm</file>
+        <file alias="ja">locale/xsgt_ja.qm</file>
+        <file alias="ko_KR">locale/xsgt_ko_KR.qm</file>
+        <file alias="nl">locale/xsgt_nl.qm</file>
+        <file alias="pl">locale/xsgt_pl.qm</file>
+        <file alias="pt">locale/xsgt_pt.qm</file>
+        <file alias="pt_BR">locale/xsgt_pt_BR.qm</file>
+        <file alias="ro_RO">locale/xsgt_ro_RO.qm</file>
+        <file alias="ru">locale/xsgt_ru.qm</file>
+        <file alias="sk">locale/xsgt_sk.qm</file>
+        <file alias="sv">locale/xsgt_sv.qm</file>
+        <file alias="uk">locale/xsgt_uk.qm</file>
+        <file alias="zh_CN">locale/xsgt_zh_CN.qm</file>
+        <file alias="zh_TW">locale/xsgt_zh_TW.qm</file>
+    </qresource>
+</RCC>

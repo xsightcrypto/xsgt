@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=xsgt
+Comment=xsgt P2P Cryptocurrency
+Exec=xsgt-qt %u
+Terminal=false
+Type=Application
+Icon=xsgt128
+MimeType=x-scheme-handler/xsgt;
+Categories=Office;Finance;
+Name[it]=xsgt-qt.desktop

@@ -1,0 +1,26 @@
+# /etc/conf.d/xsgtd: config file for /etc/init.d/xsgtd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/xsgt/xsgt.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/xsgtd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/xsgtd.pid"
+
+# Where to write xsgtd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/xsgtd"
+
+# User and group to own xsgtd process
+#BITCOIND_USER="xsgt"
+#BITCOIND_GROUP="xsgt"
+
+# Path to xsgtd executable
+#BITCOIND_BIN="/usr/bin/xsgtd"
+
+# Nice value to run xsgtd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
